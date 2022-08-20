@@ -1,6 +1,6 @@
 # Mumble Live Streaming Service
 
-Interactive real-time messaging and video calling app where users can create rooms, comment, and share screens
+Interactive real-time messaging and video calling app where users can create rooms, send invites, and share screens
 
 # Installation
 * 1 - Clone repo https://github.com/vua11/mumble-live-streaming-service/
